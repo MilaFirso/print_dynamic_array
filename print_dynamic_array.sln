@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "print_dynamic_array", "print_dynamic_array.vcxproj", "{E38532C4-14DB-4CC0-A97E-52D6636DE179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E38532C4-14DB-4CC0-A97E-52D6636DE179}.Debug|x64.ActiveCfg = Debug|x64
+		{E38532C4-14DB-4CC0-A97E-52D6636DE179}.Debug|x64.Build.0 = Debug|x64
+		{E38532C4-14DB-4CC0-A97E-52D6636DE179}.Debug|x86.ActiveCfg = Debug|Win32
+		{E38532C4-14DB-4CC0-A97E-52D6636DE179}.Debug|x86.Build.0 = Debug|Win32
+		{E38532C4-14DB-4CC0-A97E-52D6636DE179}.Release|x64.ActiveCfg = Release|x64
+		{E38532C4-14DB-4CC0-A97E-52D6636DE179}.Release|x64.Build.0 = Release|x64
+		{E38532C4-14DB-4CC0-A97E-52D6636DE179}.Release|x86.ActiveCfg = Release|Win32
+		{E38532C4-14DB-4CC0-A97E-52D6636DE179}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA554D25-B98A-4B94-B059-A4183BA86D4B}
+	EndGlobalSection
+EndGlobal
